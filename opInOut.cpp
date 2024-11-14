@@ -9,13 +9,13 @@ int main() {
     string nome;
 
     // Entrada de dados
-    cout << "Digite o seu nome: ";
+    cout << "Nome: ";
     cin >> nome;
 
-    cout << "Digite a sua idade: ";
+    cout << "Idade: ";
     cin >> idade;
 
-    cout << "Digite a sua altura (em metros): ";
+    cout << "Altura (em metros): ";
     cin >> altura;
 
     // Saída de dados
